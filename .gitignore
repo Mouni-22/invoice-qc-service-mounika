@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Cache & logs
+*.log
+
+# PDFs & extracted data
+*.pdf
+backend/reports/
+backend/pdfs/
+
+# System files
+.DS_Store
+Thumbs.db
